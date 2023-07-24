@@ -42,3 +42,13 @@ body {
 .counter.date span {
   font-size: 1.4rem;
 }
+.counter.date h2 {
+  text-align: center;
+  text-align: center;
+  display: inline-block;
+  width: max-content;
+  margin: 0 auto;
+}
+.counter.date {
+  background-color: springgreen;
+}
