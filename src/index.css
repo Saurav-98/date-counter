@@ -35,3 +35,10 @@ body {
   font-size: 2rem;
   color: rgb(255, 255, 255);
 }
+.counter .date-text {
+  color: rgb(6, 6, 88);
+}
+.counter.date h2,
+.counter.date span {
+  font-size: 1.4rem;
+}
